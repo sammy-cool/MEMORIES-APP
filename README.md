@@ -9,8 +9,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/efficiency?utm_source=google&utm_campaign=gs_apac_india_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624347&gclid=CjwKCAjwkvWKBhB4EiwA-GHjFtBP_QoW8uMIXtyoBQfdily71h8hJ9XJmEXtFt13y1Ss9t_maovnkhoCoyQQAvD_BwE)
 * [NodeJS](https://nodejs.org/en/)
 * [Express](https://expressjs.com/)
-* [Bootstrap](https://getbootstrap.com)
-* [TMDB API](https://www.themoviedb.org/)
+* [MaterialUI](https://mui.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
