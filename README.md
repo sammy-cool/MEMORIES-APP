@@ -2,7 +2,7 @@
 MEMORISE BLOG APP 
 # Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section has list of major frameworks/libraries used to bootstrap this project. Here are a few examples.
 
 * [Javascript](https://www.javascript.com/)
 * [React.js](https://reactjs.org/)
@@ -105,6 +105,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
 ### Making a Progressive Web App
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
