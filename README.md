@@ -53,6 +53,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![manali2](https://user-images.githubusercontent.com/71437463/129493512-a2e253ee-d0b0-4693-983a-aaa3f27a5837.png)
 ![memories1](https://user-images.githubusercontent.com/71437463/129493524-b6cd17dc-a208-4d3b-9699-27039561edda.png)
 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 ## Available Scripts
 
 In the project directory, you can run:
@@ -106,9 +108,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Making a Progressive Web App
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
 ### Advanced Configuration
@@ -122,3 +121,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
